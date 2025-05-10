@@ -57,7 +57,7 @@ const Dashboard: React.FC = () => {
       <div className="mb-8">
         <h2 className="text-2xl font-bold text-gray-800 mb-2">Current Readings</h2>
         <p className="text-gray-600">
-          Live environmental data from your sensors
+          Live environmental data from the sensors
         </p>
       </div>
 
